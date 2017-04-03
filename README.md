@@ -1,3 +1,3 @@
 # hello-world
-learning how to use github\n
+learning how to use github
 editing...
